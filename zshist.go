@@ -38,7 +38,7 @@ func main() {
 	}
 
 	src := "/.zsh_history"
-	bak := "/.zsh_history.bak"
+	bak := "/.files/.zsh/history/.zsh_history.bak"
 
 	handle(src, bak)
 
