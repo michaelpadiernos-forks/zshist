@@ -20,7 +20,7 @@ specific completion only once as you scroll up in the `zsh` prompt.
 ## install
 
 ```sh
-go install github.com/adhocore/zshist
+go install github.com/michaelpadiernos-forks/zshist
 ```
 
 Or, you can also download latest prebuilt binary from
